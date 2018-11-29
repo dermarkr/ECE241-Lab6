@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Bob/Desktop/ECE241/Labs/Lab6/Part3
+vcontrol
+Z1 !s110 1540978512
+!i10b 1
+!s100 @H1nDJ^^S@U5YMlSNP2<z0
+IORP2cHQ0LHijVGHE;Q7`^2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1540978498
+Z4 8main.v
+Z5 Fmain.v
+L0 128
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1540978512.000000
+Z8 !s107 main.v|
+Z9 !s90 -reportprogress|300|main.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R1
+!i10b 1
+!s100 =[@RRN;LeOR[fGNZJ7bOX2
+I4UXbN78eaYJ@ogLzoNjV30
+R2
+R0
+R3
+R4
+R5
+L0 91
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vhex_decoder
+R1
+!i10b 1
+!s100 :il?WF;<o_<ZdS?>Qjd?A2
+IfJKOXhL;@UU^4`1`SnLU?2
+R2
+R0
+R3
+R4
+R5
+L0 479
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vmain
+R1
+!i10b 1
+!s100 >X1IcSeh6gaD1E^OL72oF0
+IHlTQ@K?gVHU8W2>a_=B`_3
+R2
+R0
+R3
+R4
+R5
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

@@ -1,0 +1,13 @@
+
+State Machine - |main|control:c0|current_state
+Name current_state.S_Add_Wait current_state.S_Add current_state.S_Copy_Wait current_state.S_Copy current_state.S_Sub_Wait current_state.S_Sub current_state.S_Shift_Wait current_state.S_Shift current_state.S_LOAD_Div_Wait current_state.S_LOAD_Div 
+current_state.S_LOAD_Div 0 0 0 0 0 0 0 0 0 0 
+current_state.S_LOAD_Div_Wait 0 0 0 0 0 0 0 0 1 1 
+current_state.S_Shift 0 0 0 0 0 0 0 1 0 1 
+current_state.S_Shift_Wait 0 0 0 0 0 0 1 0 0 1 
+current_state.S_Sub 0 0 0 0 0 1 0 0 0 1 
+current_state.S_Sub_Wait 0 0 0 0 1 0 0 0 0 1 
+current_state.S_Copy 0 0 0 1 0 0 0 0 0 1 
+current_state.S_Copy_Wait 0 0 1 0 0 0 0 0 0 1 
+current_state.S_Add 0 1 0 0 0 0 0 0 0 1 
+current_state.S_Add_Wait 1 0 0 0 0 0 0 0 0 1 
